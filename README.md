@@ -151,6 +151,6 @@ plt.show()
 
 <img width="1393" height="825" alt="{7DF9A293-A701-4E52-B35C-7A6A307C4ABE}" src="https://github.com/user-attachments/assets/91356a60-a259-4adf-8210-23d8dae127ad" />
 
-``
+
 # RESULT:
 Thus,Python program for the modulation and demodulation of PSK and QPSK is verified
